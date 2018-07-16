@@ -143,3 +143,8 @@ a:active {
     width: 200px;
     margin: 10px;
 }
+
+.page-header {
+	border-bottom: 2px solid #ccc;
+	margin: 20px 0 25px;
+}
